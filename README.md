@@ -1,4 +1,4 @@
-# Ruby On Rails Kitabı | Sıtkı Bağdat
+# Ruby On Rails 
 ## Görev Yöneticisi Uygulaması
 
 Bu depoda Ruby on Rails kitabında, Rails mimarisini öğrenmek amacıyla oluşturduğumuz basit bit görev yöneticisi uygulamasına ait  kodlar yer almaktadır.
